@@ -3,7 +3,7 @@ import time
 import os
 
 a = 1.5
-b = 0.1
+b = 0.05
 
 # Monster Ascii
 monster_1 = r"""
