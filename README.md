@@ -8,4 +8,6 @@ Project Goals
 - Refactored code to be more modular and efficient.
 
 Text Display Example:
+
+
 ![Moving text](https://user-images.githubusercontent.com/51865580/146094486-7abb2a5f-6c5e-479b-b8a4-06ed27ebeabe.gif)
