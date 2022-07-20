@@ -1,5 +1,5 @@
 # TextAdventureGame
-*Please open adventure game in the windows CMD for best experience*
+*Please open adventure game in windows CMD for the best experience*
 
 Project Goals
 - Created an interactive command line text-based adventure game in Python.
