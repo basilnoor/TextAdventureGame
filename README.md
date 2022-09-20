@@ -1,6 +1,10 @@
 # TextAdventureGame
 *Please open adventure game in windows CMD for the best experience*
 
+### Languages/Frameworks/Tools used:
+
+- Python, Pycharm
+
 <h3> Project Goals </h3>
 <ul>
 <li> Created an interactive command line text-based adventure game in Python. </li>
