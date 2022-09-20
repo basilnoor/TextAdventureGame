@@ -9,10 +9,6 @@
 <li> Refactored code to be more modular and efficient. </li>
 </ul>
 
-### Future Goals:
-
-- No set goals
-
 <h3> Text Display Example: </h3>
 
 
